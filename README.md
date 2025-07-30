@@ -4,7 +4,7 @@ This repository contains a set of C++ programs designed to help understand and p
 
 ---
 
-## 📘 Contents & Detailed Theory
+## 📘 Programs explained:
 
 ### 1. **Print Elements of an Array**
 - **Theory**: Arrays are fixed-size collections of elements of the same data type. They are stored in contiguous memory locations and can be accessed using indices.
