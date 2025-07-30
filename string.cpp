@@ -13,8 +13,6 @@ int main() {
 
     string str4 = str1;
 
-    string str5 = str1 + " " + str2 + " " + str3;
-
     string userInput;
     cout << "Enter a string: ";
     getline(cin, userInput);
@@ -26,7 +24,6 @@ int main() {
     cout << "expstring 2: " << str2 << endl;
     cout << "expstring 3: " << str3 << endl;
     cout << "Copied string: " << str4 << endl;
-    cout << "Concatenated string: " << str5 << endl;
     cout << "User input string: " << userInput << endl;
 
     return 0;
