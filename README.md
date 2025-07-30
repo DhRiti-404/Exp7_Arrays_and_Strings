@@ -1,6 +1,24 @@
 # Exp7_Arrays_and_Strings
+## 📖 Introduction
 
-This repository contains a set of C++ programs designed to help understand and practice key concepts related to **arrays** and **strings**. Each program includes a brief explanation of the theory, followed by practical implementation.
+In C++, **arrays** and **strings** are fundamental data structures used to store and manipulate collections of data.
+
+### 🔢 Arrays
+An **array** is a fixed-size sequence of elements of the same data type stored in contiguous memory locations. Arrays allow efficient access and manipulation using indices. They are ideal for storing lists of numbers, characters, or other primitive types.
+
+**Key Features:**
+- Static size (defined at declaration)
+- Indexed access (starting from 0)
+- Useful for tasks like searching, sorting, and aggregation
+
+### 🧵 Strings
+A **string** is a sequence of characters used to represent text. C++ supports two types of strings:
+- **C-style strings**: Character arrays ending with a null character (`'\0'`)
+- **C++ `string` class**: Part of the Standard Library, offering dynamic sizing and rich functionality
+
+Strings are essential for handling user input, displaying messages, and performing operations like concatenation, reversal, and pattern matching.
+
+This experiment explores both arrays and strings through hands-on programs that build a strong foundation for understanding data handling in C++.
 
 ---
 
