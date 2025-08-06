@@ -1,4 +1,4 @@
-# Exp7_Arrays_and_Strings
+# Exp7 Arrays and Strings
 ## 📖 Introduction
 
 In C++, **arrays** and **strings** are fundamental data structures used to store and manipulate collections of data.
