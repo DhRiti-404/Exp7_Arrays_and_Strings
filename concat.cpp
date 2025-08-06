@@ -3,8 +3,8 @@
 using namespace std;
 
 int main() {
-    string str1 = "Hello";
-    string str2 = "World";
+    string str1 = "Dhriti";
+    string str2 = "Manpurkar";
 
     string result = str1 + " " + str2;
   
